@@ -5,6 +5,7 @@ import requests
 import threading
 import re
 
+# Main class
 class AccountLaunch:
     def __init__(self, cookie: str, placeId: [int, str], VIP: bool, privateServerLink: str):
         self.cookie = cookie
@@ -35,7 +36,8 @@ class AccountLaunch:
             response = requests.get("https://games.roblox.com/v1/games/10515146389/servers/0?sortOrder=1&excludeFullGames=true&limit=25").json()
             data = response["data"][4]
             return data["id"]
-    
+
+    # Get the private server code from private server link
     def get_link_code(self):
         url = self.privateServerLink
 
